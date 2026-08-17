@@ -157,4 +157,4 @@ large, so a single borough keeps the static site light. **Live at
 
 ## 📝 License
 
-MIT — see `LICENSE` (add one if you haven't yet). Data belongs to the City of New York.
+MIT — see `LICENSE`. Data belongs to the City of New York.
